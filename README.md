@@ -1,1 +1,1 @@
-# configs for React/TypeScript
+# settings for React/TypeScript
